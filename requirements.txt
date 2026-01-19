@@ -1,6 +1,7 @@
 streamlit
 torch
 torchvision
-timm
+transformers
 pillow
 numpy
+
